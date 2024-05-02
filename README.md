@@ -6,8 +6,8 @@ The Surgical Skills and Competencies Autonomous Review System ---SCARS--- is an 
 
 ## Implemented methods
 
-Classification methods
-Non-time series classifiers: Decision Tree (DT), k-Nearest Neighbors (k-NN), Support Vector Machines (SVM), Logistic Regression (LR)
+Classification methods <br />
+Non-time series classifiers: Decision Tree (DT), k-Nearest Neighbors (k-NN), Support Vector Machines (SVM), Logistic Regression (LR) <br />
 Time series classifiers: Dynamic Time Warping (DTW), Neural Network (NN)
 
 Validation methods

@@ -39,4 +39,4 @@ pip install tensorflow==2.9.1 <br />
 ## Citation
 
 If you use this framework in your research, please cite the following paper: <br />
-Lukács E, Levendovics R and Haidegger T. "Enhancing Skill Assessment of Autonomous Robot-Assisted Minimally Invasive Surgery: A Comprehensive Analysis of Global and Gesture-Level Techniques applied on the JIGSAWS Dataset." Acta Polytechnica Hungarica, 20(8).
+Lukács E, Levendovics R and Haidegger T. Enhancing Skill Assessment of Autonomous Robot-Assisted Minimally Invasive Surgery: A Comprehensive Analysis of Global and Gesture-Level Techniques applied on the JIGSAWS Dataset. Acta Polytechnica Hungarica, 20(8).

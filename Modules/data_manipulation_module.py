@@ -47,6 +47,6 @@ def Features_target(df):
 
 #Splitts the data into train and test set
 from sklearn.model_selection import train_test_split
-def train_test(X, Y, t_size):
+def Train_test(X, Y, t_size):
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size = t_size, random_state = 0)
     return X_train, X_test, Y_train, Y_test
